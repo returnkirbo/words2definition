@@ -4,7 +4,7 @@ a python based program that defines words from a given input file and outputs th
 utilizes a [free dictionary api](https://dictionaryapi.dev/) so please respect potential rate-limits and check out their website as well!
 
 input.txt for input & output.txt for output
-the input file must look like ![this]([http://url/to/img.png](https://github.com/returnkirbo/word2definition/blob/main/example.png))
+the input file must look like ![this]([http://url/to/img.png](https://github.com/returnkirbo/words2definition/blob/main/example.png))
 
 how to run:
 ```
